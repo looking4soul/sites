@@ -46,8 +46,9 @@
 
 [南方周末](http://www.infzm.com/)
 
+## 非资讯类
 
-## 区块链
+### 区块链
 
 [blockchain startups](https://angel.co/blockchains)
 
@@ -67,7 +68,7 @@
 
 [geth github](https://github.com/ethereum/go-ethereum)
 
-### 交易所
+#### 交易所
 
 [bittrex](https://bittrex.com/)
 
@@ -78,41 +79,41 @@
 [火币](https://www.huobi.pro/zh-cn/)
 
 
-### eth
+#### eth
 
 [stateofdapps](https://www.stateofthedapps.com/)
 
-## freelancer
+### freelancer
 
 [freelancer](https://www.freelancer.cn/search/projects/?q=blockchain)
 
-## edu
+### edu
 
 [edx](https://www.edx.org/)
 
-## 技术博客
+### 技术博客
 
 [深入浅出区块链](https://learnblockchain.cn/)
 
-## 项目型网站
+### 项目型网站
 
 [Hexo, A fast, simple & powerful blog framework](https://hexo.io/)
 
-## 其他
+### 其他
 
 [志愿深圳](http://www.sva.org.cn/default.aspx?_c=Default&_a=)
 
-## 优质博客
+### 优质博客
 
 [program thinking](https://program-think.blogspot.com/)
 
-## 技术知识
+### 技术知识
 
 [infoQ](http://www.infoq.com/cn/)
 
 [极客书](http://gitbook.cn/gitchat/geekbook/5a52d02e70abe612559ad4d9)
 
-## 科学
+### 科学
 
 [stf](https://www.santafe.edu/)
 

@@ -5,6 +5,15 @@
 ## 区块链
 
 [blockchain startups](https://angel.co/blockchains)
+[smt github](https://github.com/SmartMeshFoundation)
+[etc](https://ethereumclassic.github.io)
+[闪电网络](https://lightning.network)
+[blockchain github](https://github.com/bitcoin/bitcoin)
+[stampio](https://stamp.io)
+[maker](https://makerdao.com)
+[hyperledger](https://www.hyperledger.org)
+[geth github](https://github.com/ethereum/go-ethereum)
+
 
 ### 资讯
 [巴比特](http://www.8btc.com/)
@@ -40,6 +49,7 @@
 
 [Hexo, A fast, simple & powerful blog framework](https://hexo.io/)
 
+
 ## 其他
 [志愿深圳](http://www.sva.org.cn/default.aspx?_c=Default&_a=)
 [三联生活](http://www.lifeweek.com.cn/)
@@ -66,6 +76,7 @@
 [engadget中国版](https://cn.engadget.com/)
 [techcrunch中文版](http://techcrunch.cn/)
 [infoQ](http://www.infoq.com/cn/)
+[极客书](http://gitbook.cn/gitchat/geekbook/5a52d02e70abe612559ad4d9)
 
 ## 科学
 [stf](https://www.santafe.edu/)
